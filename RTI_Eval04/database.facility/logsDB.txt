@@ -1,0 +1,37 @@
+[27/10/2020 16:15:30] : Connexion a la base de donnees dans l'applic test JDBC
+[27/10/2020 17:19:20] : Connexion a la base de donnees dans l'applic test JDBC
+[27/10/2020 22:16:11] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:46:43] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:48:04] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:48:52] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:49:42] : Requete < select * from destinations > effectuee dans test JDBC
+[27/10/2020 22:50:26] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 22:56:16] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:56:17] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 22:56:24] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:56:26] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 22:56:34] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 22:57:49] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 22:57:51] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 22:58:02] : Requete < select * from destinations > effectuee dans test JDBC
+[27/10/2020 23:07:17] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 23:07:32] : Requete < select * from societes > effectuee dans test JDBC
+[27/10/2020 23:07:38] : Deconnexion de la base de donnees dans test JDBC
+[27/10/2020 23:09:40] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 23:09:41] : Deconnexion de la base de donnees dans test JDBC
+[27/10/2020 23:09:42] : Connexion a la base de donnees dans test JDBC
+[27/10/2020 23:09:43] : Deconnexion de la base de donnees dans test JDBC
+[29/10/2020 21:08:54] : Connexion a la base de donnees dans test JDBC
+[29/10/2020 21:24:33] : Connexion a la base de donnees dans test JDBC
+[29/10/2020 21:24:46] : Requete < select * from users > effectuee dans test JDBC
+[29/10/2020 21:28:23] : Connexion a la base de donnees dans test JDBC
+[29/10/2020 21:28:30] : Requete < select * from users > effectuee dans test JDBC
+[29/10/2020 21:29:13] : Connexion a la base de donnees dans test JDBC
+[29/10/2020 21:29:23] : Requete < select * from users > effectuee dans test JDBC
+[29/10/2020 23:25:21] : Connexion a la base de donnees dans test JDBC
+[29/10/2020 23:25:28] : Requete < select * from users > effectuee dans test JDBC
+[03/11/2020 16:56:33] : Connexion a la base de donnees dans test JDBC
+[03/11/2020 16:56:41] : Requete < select * from users > effectuee dans test JDBC
+[03/11/2020 17:31:16] : Connexion a la base de donnees dans test JDBC
+[03/11/2020 17:31:37] : Requete < select * from users > effectuee dans test JDBC
+[03/11/2020 17:31:41] : Deconnexion de la base de donnees dans test JDBC

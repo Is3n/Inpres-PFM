@@ -1,0 +1,781 @@
+[02/11/2020 01:02:22] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:02:28] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:02:28] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:02:28] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:03:07] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:03:07] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:04:01] : Envoi d'une requete de type INSCRIPTION : CA01#AMAZON#Electronique#5#Fragile#null#15#Boncelles
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:30] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:07:42] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:44] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:44] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:07:44] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:08:09] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:08:09] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:10:57] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:11:06] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:11:09] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:11:09] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:11:09] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:11:42] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:11:42] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:12:14] : Envoi d'une requete de type INSCRIPTION : 1-aaa-zae#AMAZON#CAMION#9#Long#CAT54#AMAZON#Electronique#4#Fragile#15#Boncelles
+[02/11/2020 01:12:14] :  Reponse reçue : 1-aaa-zae
+[02/11/2020 01:13:27] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:18:44] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 01:18:45] :  Reponse reçue : Isen
+[02/11/2020 01:18:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:18:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:18:47] : Ouverture fenêtre FenListeOperations
+[02/11/2020 01:19:06] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-25#_#_
+[02/11/2020 01:19:06] :  Requete Liste Operations : 2020-10-01#2020-12-25#_#_ effectué avec succès !! 
+[02/11/2020 01:19:14] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-25#_#Flemalle
+[02/11/2020 01:19:14] :  Requete Liste Operations : 2020-10-01#2020-12-25#_#Flemalle effectué avec succès !! 
+[02/11/2020 01:19:16] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-25#_#Boncelles
+[02/11/2020 01:19:16] :  Requete Liste Operations : 2020-10-01#2020-12-25#_#Boncelles effectué avec succès !! 
+[02/11/2020 01:19:18] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-25#_#_
+[02/11/2020 01:19:18] :  Requete Liste Operations : 2020-10-01#2020-12-25#_#_ effectué avec succès !! 
+[02/11/2020 01:19:37] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:19:37] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 01:19:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:19:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:19:39] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:20:20] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:20:20] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:21:22] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-bbb-rti#CLIS#CAMION#4#Large#CAT23#CLIS#Alimentation#3#Perissable#8#Huy
+[02/11/2020 01:21:22] :  Reponse reçue : 1-bbb-rti
+[02/11/2020 01:21:23] :  Enregistrement de la requete (LORRY WR) : 1-bbb-rti#CLIS#CAMION#4#Large#CAT23#CLIS#Alimentation#3#Perissable#8#Huy effectué avec succès !! 
+[02/11/2020 01:21:51] : Envoi d'une requete de type LOGIN : Claes#123
+[02/11/2020 01:21:51] :  Reponse reçue : Claes
+[02/11/2020 01:21:52] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:21:52] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:21:52] : Ouverture fenêtre FenListeOperations
+[02/11/2020 01:22:03] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-20#_#_
+[02/11/2020 01:22:03] :  Requete Liste Operations : 2020-10-01#2020-12-20#_#_ effectué avec succès !! 
+[02/11/2020 01:22:51] : Envoi d'une requete de type LOGIN : Clamant#123
+[02/11/2020 01:22:52] :  Reponse reçue : Clamant
+[02/11/2020 01:23:00] : Envoi d'une requete de type LOGIN : Calmant#123
+[02/11/2020 01:23:00] :  Reponse reçue : Calmant
+[02/11/2020 01:23:04] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:23:04] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 01:23:07] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:23:07] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:23:07] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:23:27] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:23:27] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 01:24:12] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-ccc-874#HALO#CAMION#1#Petit#CAT65#HALO#Mobilier#1#Fragile#3#Boncelles
+[02/11/2020 01:24:12] :  Reponse reçue : 1-ccc-874
+[02/11/2020 01:24:14] :  Enregistrement de la requete (LORRY WR) : 1-ccc-874#HALO#CAMION#1#Petit#CAT65#HALO#Mobilier#1#Fragile#3#Boncelles effectué avec succès !! 
+[02/11/2020 01:24:18] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:24:18] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 01:24:18] : Ouverture fenêtre FenListeOperations
+[02/11/2020 01:24:26] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-25#_#_
+[02/11/2020 01:24:26] :  Requete Liste Operations : 2020-10-01#2020-12-25#_#_ effectué avec succès !! 
+[02/11/2020 12:21:59] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:22:05] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:22:05] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:22:05] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:22:27] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:22:27] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:23:07] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-eee-111#REEV#CAMION#6#Large#CATb7#REEV#Alimentaire#4#Perissable#12#Liege
+[02/11/2020 12:24:34] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:24:38] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:24:38] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:24:38] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:25:35] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:25:35] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:26:08] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-ddd-111#REEV#CAMION#6#Large#CATb4#REEV#Alimentaire#4#Perissable#12#Liege
+[02/11/2020 12:26:09] :  Reponse reçue : 1,3
+[02/11/2020 12:26:19] :  Enregistrement de la requete (LORRY WR) : 1-ddd-111#REEV#CAMION#6#Large#CATb4#REEV#Alimentaire#4#Perissable#12#Liege effectué avec succès a l'emplacement 1,3 !! 
+[02/11/2020 12:26:23] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:27:21] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:27:21] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:27:21] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:27:33] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 12:27:33] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 12:28:43] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-fff-222#AMAZON#CAMION#3#Petit#CATn39#AMAZON#Electonique#2#Fragile#6#Boncelles
+[02/11/2020 12:28:43] :  Reponse reçue : 1,4
+[02/11/2020 12:28:44] :  Enregistrement de la requete (LORRY WR) : 1-fff-222#AMAZON#CAMION#3#Petit#CATn39#AMAZON#Electonique#2#Fragile#6#Boncelles effectué avec succès a l'emplacement 1,4 !! 
+[02/11/2020 13:06:40] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:04:30] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:04:30] :  Reponse reçue : Isen
+[02/11/2020 14:04:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:04:39] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 14:05:40] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:05:40] :  Reponse reçue : Isen
+[02/11/2020 14:05:42] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:05:42] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 14:05:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:05:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:05:47] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:06:43] : Déconnection de l'utilisateur
+[02/11/2020 14:06:51] : Envoi d'une requete de type LOGIN : Claes#123
+[02/11/2020 14:06:51] :  Reponse reçue : Claes
+[02/11/2020 14:06:54] : Ouverture fenetre de nouveau login 
+[02/11/2020 14:06:57] : Annulation de login 
+[02/11/2020 14:06:58] : Ouverture fenetre de nouveau login 
+[02/11/2020 14:07:01] : Annulation de login 
+[02/11/2020 14:07:02] : Déconnection de l'utilisateur
+[02/11/2020 14:08:21] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:08:21] :  Reponse reçue : Isen
+[02/11/2020 14:08:24] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:08:24] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:08:24] : Ouverture fenêtre FenListeOperations
+[02/11/2020 14:08:32] : Envoi d'une requete de type OPERATIONS : 2020-10-01#2020-12-15#_#_
+[02/11/2020 14:08:32] :  Requete Liste Operations : 2020-10-01#2020-12-15#_#_ effectué avec succès !! 
+[02/11/2020 14:17:56] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:17:56] :  Reponse reçue : Isen
+[02/11/2020 14:17:58] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:17:58] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:17:58] : Ouverture fenêtre FenListeOperations
+[02/11/2020 14:18:12] : Envoi d'une requete de type OPERATIONS : 1999-10-24#2021-10-10#_#_
+[02/11/2020 14:18:12] :  Requete Liste Operations : 1999-10-24#2021-10-10#_#_ effectué avec succès !! 
+[02/11/2020 14:18:16] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:18:16] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 14:18:18] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:18:18] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:18:18] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:21:36] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:21:36] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:21:59] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:21:59] :  Reponse reçue : Isen
+[02/11/2020 14:22:03] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:22:03] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 14:22:06] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:22:06] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:22:06] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:23:05] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:23:05] :  Reponse reçue : Isen
+[02/11/2020 14:23:08] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:23:08] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 14:23:09] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:23:09] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:23:09] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:23:52] : Envoi d'une requete de type INPUT_LORRY : 1-iii-777#REEV#CAMION#12#Tres long#null#null#8#Hasselt
+[02/11/2020 14:23:52] :  Reponse reçue : 0,0
+[02/11/2020 14:24:00] :  Enregistrement de la requete (LORRY) : 1-iii-777#REEV#CAMION#12#Tres long#null#null#8#Hasselt effectué avec succès a l'emplacement 0,0 !! 
+[02/11/2020 14:27:49] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:27:54] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:27:54] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:27:54] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:28:26] : Envoi d'une requete de type INPUT_LORRY : 1-iii-ooo#REEV#CAMION#10#long#null#null#8#Hasselt
+[02/11/2020 14:28:26] :  Reponse reçue : 0,0
+[02/11/2020 14:28:32] :  Enregistrement de la requete (LORRY) : 1-iii-ooo#REEV#CAMION#10#long#null#null#8#Hasselt effectué avec succès a l'emplacement 0,0 !! 
+[02/11/2020 14:30:30] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:30:32] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:30:32] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:30:32] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:31:44] : Envoi d'une requete de type INPUT_LORRY : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10#Hasselt
+[02/11/2020 14:36:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:36:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:36:39] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:37:08] : Envoi d'une requete de type INPUT_LORRY : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10
+[02/11/2020 14:40:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:40:47] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:40:47] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:41:15] : Envoi d'une requete de type INPUT_LORRY : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10
+[02/11/2020 14:41:59] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:41:59] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:41:59] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:42:28] : Envoi d'une requete de type INPUT_LORRY : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10
+[02/11/2020 14:53:27] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:53:27] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:53:27] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:54:20] : Envoi d'une requete de type INPUT_LORRY : 1oooo0o0o#REEV#CAMION#12#tres long#Res01#Cres01#10
+[02/11/2020 14:55:21] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:55:21] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 14:55:21] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 14:55:50] : Envoi d'une requete de type INPUT_LORRY : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10
+[02/11/2020 14:55:50] :  Reponse reçue : 2,2
+[02/11/2020 14:56:17] :  Enregistrement de la requete (LORRY) : 1-ooo-000#REEV#CAMION#12#Tres long#Res01#Cres01#10 effectué avec succès a l'emplacement 2,2 !! 
+[02/11/2020 14:59:41] : Envoi d'une requete de type LOGIN : DSD#123
+[02/11/2020 14:59:41] :  Reponse reçue : DSD
+[02/11/2020 14:59:49] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 14:59:49] :  Reponse reçue : Isen
+[02/11/2020 14:59:52] : Ouverture fenêtre des logs 
+[02/11/2020 14:59:59] : Fermeture fenetre de logs
+[02/11/2020 15:00:02] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:00:04] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:00:04] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:00:04] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:00:52] : Envoi d'une requete de type INPUT_LORRY : 1-rrr-777#AMAZON#CAMION#5#Large#zazaza#Cres03#6
+[02/11/2020 15:00:52] :  Reponse reçue : 0,0
+[02/11/2020 15:00:53] :  Enregistrement de la requete (LORRY) : 1-rrr-777#AMAZON#CAMION#5#Large#zazaza#Cres03#6 effectué avec succès a l'emplacement 0,0 !! 
+[02/11/2020 15:02:42] : Envoi d'une requete de type LOGIN : Ien#132
+[02/11/2020 15:02:42] :  Reponse reçue : Ien
+[02/11/2020 15:02:46] : Envoi d'une requete de type LOGIN : Isen#132
+[02/11/2020 15:02:46] :  Reponse reçue : Isen
+[02/11/2020 15:02:50] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 15:02:50] :  Reponse reçue : Isen
+[02/11/2020 15:02:51] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:02:52] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:02:52] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:02:52] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:03:33] : Envoi d'une requete de type INPUT_LORRY : 1-rrr-777#AMAZON#CAMION#2#Petit#zazaza#Cres03#5
+[02/11/2020 15:03:33] :  Reponse reçue : SELECT * FROM reservations WHERE num_reserv = 'zazaza'
+[02/11/2020 15:03:46] : Envoi d'une requete de type INPUT_LORRY : 1-rrr-777#AMAZON#CAMION#2#Petit#Res03#azazaz#5
+[02/11/2020 15:18:12] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 15:18:12] :  Reponse reçue : Isen
+[02/11/2020 15:18:14] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:18:45] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:18:45] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:18:45] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:19:28] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#zazaza#Cres03#5
+[02/11/2020 15:19:28] :  Reponse reçue : zazaza
+[02/11/2020 15:19:42] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#zazaza#5
+[02/11/2020 15:19:42] :  Reponse reçue : zazaza
+[02/11/2020 15:20:06] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#CRes03#5
+[02/11/2020 15:24:33] : Envoi d'une requete de type LOGIN : Isen#23
+[02/11/2020 15:24:33] :  Reponse reçue : Isen
+[02/11/2020 15:24:36] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 15:24:36] :  Reponse reçue : Isen
+[02/11/2020 15:24:38] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:24:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:24:39] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:24:39] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:25:10] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#zazaza#Cres03#5
+[02/11/2020 15:25:10] :  Reponse reçue : zazaza
+[02/11/2020 15:25:23] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#zazazaz#5
+[02/11/2020 15:25:23] :  Reponse reçue : zazazaz
+[02/11/2020 15:25:35] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#Cres03#5
+[02/11/2020 15:27:13] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 15:27:13] :  Reponse reçue : Isen
+[02/11/2020 15:27:14] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:27:17] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:27:17] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:27:17] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:27:38] : Envoi d'une requete de type INPUT_LORRY : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#Cres03#5
+[02/11/2020 15:27:38] :  Reponse reçue : 4,5
+[02/11/2020 15:28:00] :  Enregistrement de la requete (LORRY) : 1-RRR-213#AMAZON#CAMION#2#Petit#Res03#Cres03#5 effectué avec succès a l'emplacement 4,5 !! 
+[02/11/2020 15:28:04] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:28:04] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/11/2020 15:28:06] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:28:06] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:28:06] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:28:26] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:28:26] : Ouverture fenetre de nouveau transporteur 
+[02/11/2020 15:29:14] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-ppp-888#CLIS#CAMION#7#Large#C7845s#CLIS#Charbon#6#Inflammable#10#Seraing
+[02/11/2020 15:29:14] :  Reponse reçue : 1,5
+[02/11/2020 15:29:25] :  Enregistrement de la requete (LORRY WR) : 1-ppp-888#CLIS#CAMION#7#Large#C7845s#CLIS#Charbon#6#Inflammable#10#Seraing effectué avec succès a l'emplacement 1,5 !! 
+[02/11/2020 15:29:26] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:29:26] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:29:26] : Ouverture fenêtre FenListeOperations
+[02/11/2020 15:29:42] : Envoi d'une requete de type OPERATIONS : 2020-11-01#2020-11-06#_#_
+[02/11/2020 15:29:42] :  Requete Liste Operations : 2020-11-01#2020-11-06#_#_ effectué avec succès !! 
+[02/11/2020 15:29:47] : Envoi d'une requete de type OPERATIONS : 2020-11-01#2020-11-06#AMAZON#_
+[02/11/2020 15:29:47] :  Requete Liste Operations : 2020-11-01#2020-11-06#AMAZON#_ effectué avec succès !! 
+[02/11/2020 15:29:49] : Envoi d'une requete de type OPERATIONS : 2020-11-01#2020-11-06#CLIS#_
+[02/11/2020 15:29:49] :  Requete Liste Operations : 2020-11-01#2020-11-06#CLIS#_ effectué avec succès !! 
+[02/11/2020 15:29:53] : Envoi d'une requete de type OPERATIONS : 2020-11-01#2020-11-06#_#_
+[02/11/2020 15:29:53] :  Requete Liste Operations : 2020-11-01#2020-11-06#_#_ effectué avec succès !! 
+[02/11/2020 15:30:09] : Déconnection de l'utilisateur
+[02/11/2020 15:30:10] : Annulation de login 
+[02/11/2020 15:34:56] : Envoi d'une requete de type LOGIN : Isen#123
+[02/11/2020 15:34:56] :  Reponse reçue : Isen
+[02/11/2020 15:35:02] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:35:02] : Connexion a la base de donnees dans FenListeOperations
+[02/11/2020 15:35:02] : Ouverture fenêtre FenListeOperations
+[02/11/2020 15:35:13] : Envoi d'une requete de type OPERATIONS : 2020-10-05#2020-12-05#_#_
+[02/11/2020 15:35:13] :  Requete Liste Operations : 2020-10-05#2020-12-05#_#_ effectué avec succès !! 
+[02/11/2020 15:35:19] : Déconnection de l'utilisateur
+[02/11/2020 15:35:20] : Annulation de login 
+[03/11/2020 16:46:18] : Envoi d'une requete de type LOGIN : Isen#123
+[03/11/2020 16:46:18] :  Reponse reçue : Isen
+[03/11/2020 16:46:20] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 16:46:20] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 16:46:20] : Ouverture fenêtre FenListeOperations
+[03/11/2020 16:46:39] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#_
+[03/11/2020 16:46:39] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#_ effectué avec succès !! 
+[03/11/2020 16:46:46] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-01#_#_
+[03/11/2020 16:46:46] :  Requete Liste Operations : 2020-10-14#2020-11-01#_#_ effectué avec succès !! 
+[03/11/2020 16:46:48] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-01#_#_
+[03/11/2020 16:46:48] :  Requete Liste Operations : 2020-10-14#2020-11-01#_#_ effectué avec succès !! 
+[03/11/2020 16:46:53] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-01#AMAZON#_
+[03/11/2020 16:46:53] :  Requete Liste Operations : 2020-10-14#2020-11-01#AMAZON#_ effectué avec succès !! 
+[03/11/2020 16:46:58] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-03#AMAZON#_
+[03/11/2020 16:46:58] :  Requete Liste Operations : 2020-10-14#2020-11-03#AMAZON#_ effectué avec succès !! 
+[03/11/2020 16:47:04] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#Anvers
+[03/11/2020 16:47:04] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#Anvers effectué avec succès !! 
+[03/11/2020 16:47:06] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#_
+[03/11/2020 16:47:06] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#_ effectué avec succès !! 
+[03/11/2020 16:47:09] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#_
+[03/11/2020 16:47:09] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#_ effectué avec succès !! 
+[03/11/2020 16:47:11] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#_
+[03/11/2020 16:47:11] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#_ effectué avec succès !! 
+[03/11/2020 16:47:13] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#Flemalle
+[03/11/2020 16:47:13] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#Flemalle effectué avec succès !! 
+[03/11/2020 16:47:15] : Envoi d'une requete de type OPERATIONS : 2020-10-14#2020-11-30#_#_
+[03/11/2020 16:47:15] :  Requete Liste Operations : 2020-10-14#2020-11-30#_#_ effectué avec succès !! 
+[03/11/2020 16:47:20] : Ouverture fenetre d'a propos 
+[03/11/2020 16:47:24] : Fermeture fenetre dialog about 
+[03/11/2020 16:47:26] : Ouverture fenetre d'help 
+[03/11/2020 16:47:29] : Fermeture de la fenetre help 
+[03/11/2020 16:47:30] : Ouverture fenêtre des logs 
+[03/11/2020 16:47:33] : Fermeture fenetre de logs
+[03/11/2020 16:47:35] : Ouverture fenetre de nouveau login 
+[03/11/2020 16:47:37] : Annulation de login 
+[03/11/2020 16:47:39] : Déconnection de l'utilisateur
+[03/11/2020 16:47:41] : Annulation de login 
+[03/11/2020 17:32:03] : Envoi d'une requete de type LOGIN : jean#111
+[03/11/2020 17:32:04] :  Reponse reçue : jean
+[03/11/2020 17:32:08] : Ouverture fenetre de login 
+[03/11/2020 17:32:14] : Envoi d'une requete de type INSCRIPTION : Jean#123
+[03/11/2020 17:32:14] :  Reponse reçue : Jean
+[03/11/2020 17:32:27] : Ouverture fenetre d'a propos 
+[03/11/2020 17:32:34] : Fermeture fenetre dialog about 
+[03/11/2020 17:32:35] : Ouverture fenêtre des logs 
+[03/11/2020 17:32:38] : Fermeture fenetre de logs
+[03/11/2020 17:32:39] : Ouverture fenetre d'help 
+[03/11/2020 17:32:41] : Fermeture de la fenetre help 
+[03/11/2020 17:32:52] : Déconnection de l'utilisateur
+[03/11/2020 17:32:59] : Envoi d'une requete de type LOGIN : Isen#123
+[03/11/2020 17:32:59] :  Reponse reçue : Isen
+[03/11/2020 17:33:05] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:33:05] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:33:05] : Ouverture fenêtre FenListeOperations
+[03/11/2020 17:33:34] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#_
+[03/11/2020 17:33:34] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#_ effectué avec succès !! 
+[03/11/2020 17:33:49] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-01#_#_
+[03/11/2020 17:33:49] :  Requete Liste Operations : 2020-10-10#2020-11-01#_#_ effectué avec succès !! 
+[03/11/2020 17:34:01] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#_
+[03/11/2020 17:34:01] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#_ effectué avec succès !! 
+[03/11/2020 17:34:21] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#Boncelles
+[03/11/2020 17:34:21] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#Boncelles effectué avec succès !! 
+[03/11/2020 17:34:39] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#Seraing
+[03/11/2020 17:34:39] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#Seraing effectué avec succès !! 
+[03/11/2020 17:34:41] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#_
+[03/11/2020 17:34:41] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#_ effectué avec succès !! 
+[03/11/2020 17:34:48] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#AMAZON#_
+[03/11/2020 17:34:48] :  Requete Liste Operations : 2020-10-10#2020-11-10#AMAZON#_ effectué avec succès !! 
+[03/11/2020 17:34:50] : Envoi d'une requete de type OPERATIONS : 2020-10-10#2020-11-10#_#_
+[03/11/2020 17:34:50] :  Requete Liste Operations : 2020-10-10#2020-11-10#_#_ effectué avec succès !! 
+[03/11/2020 17:34:58] : Ouverture fenêtre FenCamion (LORRY WR)
+[03/11/2020 17:35:05] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:35:05] : Ouverture fenêtre FenCamion (LORRY WR)
+[03/11/2020 17:35:08] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:35:08] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:35:08] : Ouverture fenetre de nouveau transporteur 
+[03/11/2020 17:35:28] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:35:28] : Ouverture fenetre de nouveau transporteur 
+[03/11/2020 17:35:58] : Envoi d'une requete de type INPUT_LORRY_WITHOUT_RESERVATION : 1-ZZZ-888#REEV#CAMION#6#Large#C111#REEV#Mobilier#2#Fragile#10#Liege
+[03/11/2020 17:35:58] :  Reponse reçue : 2,1
+[03/11/2020 17:36:46] :  Enregistrement de la requete (LORRY WR) : 1-ZZZ-888#REEV#CAMION#6#Large#C111#REEV#Mobilier#2#Fragile#10#Liege effectué avec succès a l'emplacement 2,1 !! 
+[03/11/2020 17:37:14] : Ouverture fenêtre FenCamion (LORRY WR)
+[03/11/2020 17:37:27] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:37:27] : Connexion a la base de donnees dans FenListeOperations
+[03/11/2020 17:37:27] : Ouverture fenetre de nouveau transporteur 
+[03/11/2020 17:38:12] : Envoi d'une requete de type INPUT_LORRY : 1-WWW-999#HALO#CAMION#4#Petit#zazazaz#Cres02#4
+[03/11/2020 17:38:12] :  Reponse reçue : zazazaz
+[03/11/2020 17:38:25] : Envoi d'une requete de type INPUT_LORRY : 1-WWW-999#HALO#CAMION#4#Petit#Res02#azazazaz#4
+[03/11/2020 17:38:25] :  Reponse reçue : azazazaz
+[03/11/2020 17:38:34] : Envoi d'une requete de type INPUT_LORRY : 1-WWW-999#HALO#CAMION#4#Petit#Res02#Cres02#4
+[03/11/2020 17:38:34] :  Reponse reçue : 3,1
+[03/11/2020 17:38:40] :  Enregistrement de la requete (LORRY) : 1-WWW-999#HALO#CAMION#4#Petit#Res02#Cres02#4 effectué avec succès a l'emplacement 3,1 !! 
+[03/11/2020 17:40:00] : Déconnection de l'utilisateur
+[03/11/2020 17:40:02] : Annulation de login 
+[29/12/2020 22:12:00] : Envoi d'une requete de type LOGIN : Isen#123
+[29/12/2020 22:12:00] :  Reponse reçue : Isen
+[29/12/2020 22:12:03] : Connexion a la base de donnees dans FenListeOperations
+[29/12/2020 22:12:03] : Connexion a la base de donnees dans FenListeOperations
+[29/12/2020 22:12:03] : Ouverture fenêtre FenListeOperations
+[29/12/2020 22:12:38] : Envoi d'une requete de type OPERATIONS : 2010-10-10#2020-12-12#_#_
+[29/12/2020 22:12:38] :  Requete Liste Operations : 2010-10-10#2020-12-12#_#_ effectué avec succès !! 
+[29/12/2020 22:12:52] : Envoi d'une requete de type OPERATIONS : 2010-10-10#2020-12-12#CLIS#_
+[29/12/2020 22:12:52] :  Requete Liste Operations : 2010-10-10#2020-12-12#CLIS#_ effectué avec succès !! 
+[29/12/2020 22:12:55] : Envoi d'une requete de type OPERATIONS : 2010-10-10#2020-12-12#_#_
+[29/12/2020 22:12:55] :  Requete Liste Operations : 2010-10-10#2020-12-12#_#_ effectué avec succès !! 
+[01/01/2021 23:00:14] : Envoi d'une requete de type LOGIN : Isen#123
+[01/01/2021 23:00:50] : Annulation de login 
+[01/01/2021 23:26:09] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 00:28:41] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 00:34:32] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 00:37:55] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 00:40:49] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 00:41:55] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:01:27] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:02:59] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:15:19] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:17:34] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:19:08] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:20:30] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 01:20:31] :  Reponse reçue : Isen
+[02/01/2021 01:20:42] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 01:20:42] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 01:20:42] : Ouverture fenêtre FenListeOperations
+[02/01/2021 01:21:00] : Envoi d'une requete de type LOGIN : Alex#123
+[02/01/2021 01:21:00] :  Reponse reçue : Alex
+[02/01/2021 01:21:29] : Envoi d'une requete de type LOGIN : Isen#456
+[02/01/2021 01:21:29] :  Reponse reçue : Isen
+[02/01/2021 01:21:45] : Envoi d'une requete de type LOGIN : Isena#123
+[02/01/2021 01:21:45] :  Reponse reçue : Isena
+[02/01/2021 01:22:10] : Ouverture fenetre de login 
+[02/01/2021 01:22:25] : Envoi d'une requete de type INSCRIPTION : Test#123
+[02/01/2021 01:22:25] :  Reponse reçue : Test
+[02/01/2021 01:22:41] : Envoi d'une requete de type LOGIN : Test#123
+[02/01/2021 01:22:41] :  Reponse reçue : Test
+[02/01/2021 01:22:56] : Annulation de login 
+[02/01/2021 13:32:28] : Envoi d'une requete de type LOGIN : Isen#123
+[02/01/2021 13:32:29] :  Reponse reçue : Isen
+[02/01/2021 13:32:49] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/01/2021 13:32:52] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 13:32:52] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 13:32:52] : Ouverture fenetre de nouveau transporteur 
+[02/01/2021 13:33:04] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 13:33:04] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/01/2021 13:33:11] : Ouverture fenêtre FenCamion (LORRY WR)
+[02/01/2021 13:33:19] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 13:33:19] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 13:33:19] : Ouverture fenêtre FenListeOperations
+[02/01/2021 13:33:41] : Ouverture fenêtre des logs 
+[02/01/2021 13:33:45] : Ouverture fenetre d'a propos 
+[02/01/2021 13:33:55] : Fermeture fenetre dialog about 
+[02/01/2021 13:33:58] : Déconnection de l'utilisateur
+[02/01/2021 13:34:00] : Annulation de login 
+[02/01/2021 16:20:31] : Envoi d'une requete de type LOGIN : Isen#1609600831200#0.4287406641950876#20
+[02/01/2021 16:20:31] :  Reponse reçue : Isen
+[02/01/2021 16:20:39] : Déconnection de l'utilisateur
+[02/01/2021 16:20:45] : Envoi d'une requete de type LOGIN : albert#1609600845699#0.9032150171140243#20
+[02/01/2021 16:20:45] :  Reponse reçue : albert
+[02/01/2021 16:20:57] : Envoi d'une requete de type LOGIN : Isen#1609600857439#0.7394060986854005#20
+[02/01/2021 16:20:57] :  Reponse reçue : Isen
+[02/01/2021 16:21:02] : Annulation de login 
+[02/01/2021 16:21:36] : Envoi d'une requete de type LOGIN : Isen#1609600896478#0.6900081093588604#20
+[02/01/2021 16:21:36] :  Reponse reçue : Isen
+[02/01/2021 16:22:55] : Envoi d'une requete de type LOGIN : Isen#1609600975753#0.7665421398273801#20
+[02/01/2021 16:22:55] :  Reponse reçue : Isen
+[02/01/2021 16:23:04] : Ouverture fenetre d'a propos 
+[02/01/2021 16:23:08] : Fermeture fenetre dialog about 
+[02/01/2021 16:23:09] : Ouverture fenêtre des logs 
+[02/01/2021 16:23:24] : Fermeture fenetre de logs
+[02/01/2021 16:23:26] : Ouverture fenetre d'help 
+[02/01/2021 16:23:32] : Déconnection de l'utilisateur
+[02/01/2021 16:23:33] : Annulation de login 
+[02/01/2021 22:59:52] : Envoi d'une requete de type LOGIN : Loic#1609624792160#0.4617241068410882#20
+[02/01/2021 22:59:52] :  Reponse reçue : Loic
+[02/01/2021 23:14:54] : Envoi d'une requete de type LOGIN : Isen#1609625694750#0.7516931552939434#20
+[02/01/2021 23:14:55] :  Reponse reçue : Isen
+[02/01/2021 23:15:00] : Ouverture fenêtre FenListeOperations
+[02/01/2021 23:15:26] : Envoi d'une requete de type LOGIN : Loic#1609625726446#0.8800359654398308#20
+[02/01/2021 23:15:26] :  Reponse reçue : Loic
+[02/01/2021 23:15:31] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 23:15:34] : Ouverture fenêtre FenListeOperations
+[02/01/2021 23:16:38] : Envoi d'une requete de type LOGIN : Isen#1609625798446#0.8399445552505019#20
+[02/01/2021 23:16:38] :  Reponse reçue : Isen
+[02/01/2021 23:16:40] : Connexion a la base de donnees dans FenListeOperations
+[02/01/2021 23:16:40] : Ouverture fenêtre FenListeOperations
+[02/01/2021 23:17:00] : Envoi d'une requete de type LIST_BILLS : 2020-12-15#2020-12-31#_
+[02/01/2021 23:34:27] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:19:26] : Envoi d'une requete de type LOGIN : Isen#1609629566858#0.42278953440406697#20
+[03/01/2021 00:19:27] :  Reponse reçue : Isen
+[03/01/2021 00:19:31] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:19:31] : Ouverture fenêtre FenListeOperations
+[03/01/2021 00:19:46] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2020-12-31#_
+[03/01/2021 00:20:45] : Envoi d'une requete de type LOGIN : Isen#1609629645320#0.7130712067600359#20
+[03/01/2021 00:20:45] :  Reponse reçue : Isen
+[03/01/2021 00:20:47] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:20:47] : Ouverture fenêtre FenListeOperations
+[03/01/2021 00:20:56] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2020-12-31#_
+[03/01/2021 00:24:47] : Envoi d'une requete de type LOGIN : Isen#1609629887727#0.6053647701108754#20
+[03/01/2021 00:24:48] :  Reponse reçue : Isen
+[03/01/2021 00:24:49] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:24:49] : Ouverture fenêtre FenListeOperations
+[03/01/2021 00:24:58] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2020-12-31#_
+[03/01/2021 00:24:58] :  Requete Liste Operations : 2020-12-20#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:25:36] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#_
+[03/01/2021 00:25:36] :  Requete Liste Operations : 2020-12-20#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:26:20] : Envoi d'une requete de type LIST_BILLS : 2029-12-20#2021-12-31#_
+[03/01/2021 00:26:20] :  Requete Liste Operations : 2029-12-20#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:29:58] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:30:11] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2020-12-31#_
+[03/01/2021 00:30:11] :  Requete Liste Operations : 2020-12-20#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:30:28] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#_
+[03/01/2021 00:30:29] :  Requete Liste Operations : 2020-12-20#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:31:25] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:31:33] : Envoi d'une requete de type LIST_BILLS : 2020-12-12#2020-12-31#_
+[03/01/2021 00:31:33] :  Requete Liste Operations : 2020-12-12#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:32:52] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:33:03] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2020-12-31#_
+[03/01/2021 00:33:03] :  Requete Liste Operations : 2020-12-21#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:33:28] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:33:36] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2020-12-31#_
+[03/01/2021 00:33:37] :  Requete Liste Operations : 2020-12-21#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:33:43] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2020-12-31#_
+[03/01/2021 00:33:43] :  Requete Liste Operations : 2020-12-20#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:33:47] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#_
+[03/01/2021 00:33:47] :  Requete Liste Operations : 2020-12-20#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:33:51] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#CLIS
+[03/01/2021 00:33:51] :  Requete Liste Operations : 2020-12-20#2021-12-31#CLIS effectué avec succès !! 
+[03/01/2021 00:33:55] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#AMAZON
+[03/01/2021 00:33:55] :  Requete Liste Operations : 2020-12-20#2021-12-31#AMAZON effectué avec succès !! 
+[03/01/2021 00:33:57] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#_
+[03/01/2021 00:33:57] :  Requete Liste Operations : 2020-12-20#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:34:09] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-12-31#CLIS
+[03/01/2021 00:34:09] :  Requete Liste Operations : 2020-12-20#2021-12-31#CLIS effectué avec succès !! 
+[03/01/2021 00:35:48] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:36:04] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#_
+[03/01/2021 00:36:04] :  Requete Liste Operations : 2020-12-20#2021-01-04#_ effectué avec succès !! 
+[03/01/2021 00:36:06] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#CLIS
+[03/01/2021 00:36:06] :  Requete Liste Operations : 2020-12-20#2021-01-04#CLIS effectué avec succès !! 
+[03/01/2021 00:36:09] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#_
+[03/01/2021 00:36:09] :  Requete Liste Operations : 2020-12-20#2021-01-04#_ effectué avec succès !! 
+[03/01/2021 00:36:20] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#CLIS
+[03/01/2021 00:36:20] :  Requete Liste Operations : 2020-12-20#2021-01-04#CLIS effectué avec succès !! 
+[03/01/2021 00:38:06] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:38:26] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#_
+[03/01/2021 00:38:26] :  Requete Liste Operations : 2020-12-20#2021-01-04#_ effectué avec succès !! 
+[03/01/2021 00:38:28] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#CLIS
+[03/01/2021 00:38:28] :  Requete Liste Operations : 2020-12-20#2021-01-04#CLIS effectué avec succès !! 
+[03/01/2021 00:38:30] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#AMAZON
+[03/01/2021 00:38:30] :  Requete Liste Operations : 2020-12-20#2021-01-04#AMAZON effectué avec succès !! 
+[03/01/2021 00:38:31] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#HALO
+[03/01/2021 00:38:31] :  Requete Liste Operations : 2020-12-20#2021-01-04#HALO effectué avec succès !! 
+[03/01/2021 00:38:32] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#REEV
+[03/01/2021 00:38:32] :  Requete Liste Operations : 2020-12-20#2021-01-04#REEV effectué avec succès !! 
+[03/01/2021 00:38:34] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#CLIS
+[03/01/2021 00:38:34] :  Requete Liste Operations : 2020-12-20#2021-01-04#CLIS effectué avec succès !! 
+[03/01/2021 00:38:39] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-01-04#_
+[03/01/2021 00:38:39] :  Requete Liste Operations : 2020-12-20#2021-01-04#_ effectué avec succès !! 
+[03/01/2021 00:38:58] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:40:19] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:40:29] : Envoi d'une requete de type LIST_BILLS : 2020-10-12#2021-10-12#_
+[03/01/2021 00:40:29] :  Requete Liste Operations : 2020-10-12#2021-10-12#_ effectué avec succès !! 
+[03/01/2021 00:40:49] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:41:00] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[03/01/2021 00:41:43] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:42:01] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[03/01/2021 00:42:01] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[03/01/2021 00:42:03] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[03/01/2021 00:42:03] :  Requete Liste Operations : 2020-10-10#2021-10-10#CLIS effectué avec succès !! 
+[03/01/2021 00:42:33] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:42:42] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[03/01/2021 00:42:42] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[03/01/2021 00:42:45] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[03/01/2021 00:42:45] :  Requete Liste Operations : 2020-10-10#2021-10-10#CLIS effectué avec succès !! 
+[03/01/2021 00:43:13] : Connexion a la base de donnees dans FenListeOperations
+[03/01/2021 00:43:26] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2020-12-31#_
+[03/01/2021 00:43:27] :  Requete Liste Operations : 2020-12-21#2020-12-31#_ effectué avec succès !! 
+[03/01/2021 00:43:29] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2020-12-31#HALO
+[03/01/2021 00:43:29] :  Requete Liste Operations : 2020-12-21#2020-12-31#HALO effectué avec succès !! 
+[03/01/2021 00:43:32] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2021-12-31#HALO
+[03/01/2021 00:43:32] :  Requete Liste Operations : 2020-12-21#2021-12-31#HALO effectué avec succès !! 
+[03/01/2021 00:43:34] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2021-12-31#_
+[03/01/2021 00:43:34] :  Requete Liste Operations : 2020-12-21#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:43:36] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2021-12-31#_
+[03/01/2021 00:43:36] :  Requete Liste Operations : 2020-12-21#2021-12-31#_ effectué avec succès !! 
+[03/01/2021 00:43:38] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2021-12-31#CLIS
+[03/01/2021 00:43:38] :  Requete Liste Operations : 2020-12-21#2021-12-31#CLIS effectué avec succès !! 
+[03/01/2021 00:43:39] : Envoi d'une requete de type LIST_BILLS : 2020-12-21#2021-12-31#_
+[03/01/2021 00:43:39] :  Requete Liste Operations : 2020-12-21#2021-12-31#_ effectué avec succès !! 
+[07/01/2021 19:40:24] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 02:10:13] : Envoi d'une requete de type LOGIN : Isen#1610068213190#0.6387938270229275#20
+[08/01/2021 02:10:13] :  Reponse reçue : Isen
+[08/01/2021 02:10:13] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:11:51] : Envoi d'une requete de type LOGIN : Isen#1610068311852#0.9626685107127135#20
+[08/01/2021 02:11:52] :  Reponse reçue : Isen
+[08/01/2021 02:11:52] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:13:03] : Envoi d'une requete de type LOGIN : Isen#1610068383651#0.37671382907670814#20
+[08/01/2021 02:13:04] :  Reponse reçue : Isen
+[08/01/2021 02:13:04] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:29:53] : Envoi d'une requete de type LOGIN : Isen#1610069393336#0.040894526209041104#20
+[08/01/2021 02:29:53] :  Reponse reçue : Isen
+[08/01/2021 02:29:53] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:31:15] : Envoi d'une requete de type LOGIN : Isen#1610069475328#0.6988079245728639#20
+[08/01/2021 02:31:15] :  Reponse reçue : Isen
+[08/01/2021 02:31:15] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:39:57] : Envoi d'une requete de type LOGIN : Isen#1610069997835#0.8326927797247239#20
+[08/01/2021 02:39:58] :  Reponse reçue : Isen
+[08/01/2021 02:39:58] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:45:12] : Envoi d'une requete de type LOGIN : Isen#1610070312369#0.31763805849178806#20
+[08/01/2021 02:45:12] :  Reponse reçue : Isen
+[08/01/2021 02:45:12] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:50:00] : Envoi d'une requete de type LOGIN : Isen#1610070600367#0.028520658636296603#20
+[08/01/2021 02:50:00] :  Reponse reçue : Isen
+[08/01/2021 02:50:04] : Envoi d'une requete de type LOGIN : Isen#1610070604423#0.026538149957049395#20
+[08/01/2021 02:50:04] :  Reponse reçue : Isen
+[08/01/2021 02:50:04] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 02:51:23] : Envoi d'une requete de type LOGIN : Isen#1610070683548#0.3210477846929505#20
+[08/01/2021 02:51:23] :  Reponse reçue : Isen
+[08/01/2021 02:51:23] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 03:11:22] : Envoi d'une requete de type LOGIN : Isen#1610071882462#0.24619989885153737#20
+[08/01/2021 03:11:22] :  Reponse reçue : Isen
+[08/01/2021 03:11:30] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:11:30] : Ouverture fenêtre FenListeOperations
+[08/01/2021 03:11:51] : Envoi d'une requete de type LIST_BILLS : 2020-12-01#2021-01-12#_
+[08/01/2021 03:11:51] :  Requete Liste Operations : 2020-12-01#2021-01-12#_ effectué avec succès !! 
+[08/01/2021 03:17:15] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:17:33] : Envoi d'une requete de type LIST_BILLS : 2020-12-12#2021-01-10#_
+[08/01/2021 03:17:33] :  Requete Liste Operations : 2020-12-12#2021-01-10#_ effectué avec succès !! 
+[08/01/2021 03:19:31] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:19:40] : Envoi d'une requete de type LIST_BILLS : 2020-12-10#2021-12-10#_
+[08/01/2021 03:19:40] :  Requete Liste Operations : 2020-12-10#2021-12-10#_ effectué avec succès !! 
+[08/01/2021 03:27:53] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:28:08] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:28:08] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:31:57] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:32:05] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:32:05] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:37:36] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:37:47] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:37:47] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:39:20] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:39:28] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#0221-10-10#_
+[08/01/2021 03:39:28] :  Requete Liste Operations : 2020-10-10#0221-10-10#_ effectué avec succès !! 
+[08/01/2021 03:39:53] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:40:02] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:40:02] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:42:29] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:42:43] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:42:44] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:43:52] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:43:58] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:43:58] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:45:03] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:45:15] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:45:16] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:47:38] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:47:48] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:47:48] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 03:49:08] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 03:49:17] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 03:49:17] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 04:54:49] : Envoi d'une requete de type LOGIN : Isen#1610078089849#0.5456983799392614#20
+[08/01/2021 04:54:50] :  Reponse reçue : Isen
+[08/01/2021 04:54:54] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 04:54:54] : Ouverture fenêtre FenListeOperations
+[08/01/2021 04:55:04] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 04:55:04] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 04:55:08] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[08/01/2021 04:55:08] :  Requete Liste Operations : 2020-10-10#2021-10-10#CLIS effectué avec succès !! 
+[08/01/2021 04:55:13] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 04:56:04] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 04:56:25] : Envoi d'une requete de type LOGIN : Isen#1610078185738#0.9079425908679742#20
+[08/01/2021 04:56:26] :  Reponse reçue : Isen
+[08/01/2021 04:56:29] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 04:56:29] :  Requete GET_NEXT_BILL : Isen effectué avec succès !! 
+[08/01/2021 04:56:29] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 06:27:35] : Envoi d'une requete de type LOGIN : Isen#1610083655220#0.7783997429487426#20
+[08/01/2021 06:27:35] :  Reponse reçue : Isen
+[08/01/2021 06:27:38] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 06:27:38] :  Requete GET_NEXT_BILL : Isen effectué avec succès !! 
+[08/01/2021 06:27:39] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 06:27:43] : Envoi d'une requete de type VALIDATE_BILL : Isen#2
+[08/01/2021 06:28:39] : Envoi d'une requete de type LOGIN : Isen#1610083719363#0.11198129065257467#20
+[08/01/2021 06:28:39] :  Reponse reçue : Isen
+[08/01/2021 06:28:42] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 06:28:42] :  Requete GET_NEXT_BILL : Isen effectué avec succès !! 
+[08/01/2021 06:28:42] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 06:28:43] : Envoi d'une requete de type VALIDATE_BILL : Isen#2
+[08/01/2021 06:28:43] :  Requete VALIDATE_BILL : Isen#2 effectué avec succès !! 
+[08/01/2021 06:30:34] : Envoi d'une requete de type LOGIN : Alex#1610083834861#0.39956868475936325#20
+[08/01/2021 06:30:35] :  Reponse reçue : Alex
+[08/01/2021 06:30:53] : Envoi d'une requete de type GET_NEXT_BILL : Alex
+[08/01/2021 06:30:53] :  Requete GET_NEXT_BILL : Alex effectué avec succès !! 
+[08/01/2021 06:30:53] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 06:30:55] : Envoi d'une requete de type VALIDATE_BILL : Alex#2
+[08/01/2021 06:30:55] :  Requete VALIDATE_BILL : Alex#2 effectué avec succès !! 
+[08/01/2021 06:31:10] : Déconnection de l'utilisateur
+[08/01/2021 08:42:26] : Envoi d'une requete de type LOGIN : Isen#1610091746135#0.41611889317187845#20
+[08/01/2021 08:42:26] :  Reponse reçue : Isen
+[08/01/2021 08:42:29] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 08:42:57] : Envoi d'une requete de type REC_PAY : Isen#1#82.17
+[08/01/2021 08:42:57] :  Requete REC_PAY : Isen#1#82.17 effectué avec succès !! 
+[08/01/2021 08:44:26] : Envoi d'une requete de type LOGIN : Isen#1610091865979#0.5948383888615331#20
+[08/01/2021 08:44:26] :  Reponse reçue : Isen
+[08/01/2021 08:44:29] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 08:44:45] : Envoi d'une requete de type REC_PAY : Isen#1#82.17
+[08/01/2021 08:44:45] :  Requete REC_PAY : Isen#1#82.17 effectué avec succès !! 
+[08/01/2021 08:46:28] : Envoi d'une requete de type LOGIN : Isen#1610091988789#0.8992362662884039#20
+[08/01/2021 08:46:29] :  Reponse reçue : Isen
+[08/01/2021 08:46:32] : Envoi d'une requete de type GET_NEXT_BILL : Isen
+[08/01/2021 08:46:32] :  Requete GET_NEXT_BILL : Isen effectué avec succès !! 
+[08/01/2021 08:46:32] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 08:46:35] : Envoi d'une requete de type VALIDATE_BILL : Isen#3
+[08/01/2021 08:46:35] :  Requete VALIDATE_BILL : Isen#3 effectué avec succès !! 
+[08/01/2021 08:46:46] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 08:46:58] : Envoi d'une requete de type REC_PAY : Isen#3#21.55
+[08/01/2021 08:46:58] :  Requete REC_PAY : Isen#3#21.55 effectué avec succès !! 
+[08/01/2021 08:47:20] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 08:47:20] : Ouverture fenêtre FenListeOperations
+[08/01/2021 08:47:21] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 09:13:19] : Envoi d'une requete de type LOGIN : Isen#1610093599936#0.8553211043929145#20
+[08/01/2021 09:13:20] :  Reponse reçue : Isen
+[08/01/2021 09:13:20] : Envoi d'une requete de type HANDSHAKE : Isen
+[08/01/2021 09:37:57] : Envoi d'une requete de type LOGIN : Isen#1610095077609#0.7490598746385784#20
+[08/01/2021 09:37:58] :  Reponse reçue : Isen
+[08/01/2021 09:38:01] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 09:38:26] : Envoi d'une requete de type REC_PAY : Isen#1#71.32
+[08/01/2021 09:38:26] :  Requete REC_PAY : Les montants ne correspondent pas !! 
+[08/01/2021 09:38:42] : Envoi d'une requete de type REC_PAY : Isen#1#82.17
+[08/01/2021 09:38:42] :  Requete REC_PAY : Isen#1#82.17 effectué avec succès !! 
+[08/01/2021 09:38:52] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 09:38:52] : Ouverture fenêtre FenListeOperations
+[08/01/2021 09:39:09] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:09] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:12] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:12] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:13] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:13] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:14] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:14] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:14] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:14] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:18] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[08/01/2021 09:39:18] :  Requete Liste Operations : 2020-10-10#2021-10-10#CLIS effectué avec succès !! 
+[08/01/2021 09:39:20] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#CLIS
+[08/01/2021 09:39:20] :  Requete Liste Operations : 2020-10-10#2021-10-10#CLIS effectué avec succès !! 
+[08/01/2021 09:39:24] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:24] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 09:39:25] : Envoi d'une requete de type LIST_BILLS : 2020-10-10#2021-10-10#_
+[08/01/2021 09:39:25] :  Requete Liste Operations : 2020-10-10#2021-10-10#_ effectué avec succès !! 
+[08/01/2021 12:12:33] : Envoi d'une requete de type LOGIN : isen#1610104353403#0.9326623111263764#20
+[08/01/2021 12:12:33] :  Reponse reçue : isen
+[08/01/2021 12:12:37] : Envoi d'une requete de type LOGIN : isen#1610104357957#0.44847601068145493#20
+[08/01/2021 12:12:37] :  Reponse reçue : isen
+[08/01/2021 12:13:19] : Envoi d'une requete de type GET_NEXT_BILL : isen
+[08/01/2021 12:13:19] :  Requete GET_NEXT_BILL : isen effectué avec succès !! 
+[08/01/2021 12:13:19] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 12:13:34] : Envoi d'une requete de type VALIDATE_BILL : isen#3
+[08/01/2021 12:13:34] :  Requete VALIDATE_BILL : isen#3 effectué avec succès !! 
+[08/01/2021 12:13:51] : Déconnection de l'utilisateur
+[08/01/2021 12:14:11] : Envoi d'une requete de type LOGIN : Alex#1610104451438#0.7239484706059055#20
+[08/01/2021 12:14:11] :  Reponse reçue : Alex
+[08/01/2021 12:14:14] : Envoi d'une requete de type GET_NEXT_BILL : Alex
+[08/01/2021 12:14:14] :  Requete GET_NEXT_BILL : Alex effectué avec succès !! 
+[08/01/2021 12:14:14] : Ouverture fenêtre FenFacture (GET_NEXT_BILL)
+[08/01/2021 12:14:18] : Envoi d'une requete de type VALIDATE_BILL : Alex#3
+[08/01/2021 12:14:18] :  Requete VALIDATE_BILL : Alex#3 effectué avec succès !! 
+[08/01/2021 12:14:35] : Connexion a la base de donnees dans FenListeOperations
+[08/01/2021 12:14:35] : Ouverture fenêtre FenListeOperations
+[08/01/2021 12:14:53] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#_
+[08/01/2021 12:14:53] :  Requete Liste Operations : 2020-12-20#2021-02-10#_ effectué avec succès !! 
+[08/01/2021 12:15:03] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#CLIS
+[08/01/2021 12:15:03] :  Requete Liste Operations : 2020-12-20#2021-02-10#CLIS effectué avec succès !! 
+[08/01/2021 12:15:05] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#AMAZON
+[08/01/2021 12:15:05] :  Requete Liste Operations : 2020-12-20#2021-02-10#AMAZON effectué avec succès !! 
+[08/01/2021 12:15:07] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#_
+[08/01/2021 12:15:07] :  Requete Liste Operations : 2020-12-20#2021-02-10#_ effectué avec succès !! 
+[08/01/2021 12:15:22] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#_
+[08/01/2021 12:15:22] :  Requete Liste Operations : 2020-12-20#2021-02-10#_ effectué avec succès !! 
+[08/01/2021 12:15:25] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#_
+[08/01/2021 12:15:25] :  Requete Liste Operations : 2020-12-20#2021-02-10#_ effectué avec succès !! 
+[08/01/2021 12:15:27] : Envoi d'une requete de type LIST_BILLS : 2020-12-20#2021-02-10#_
+[08/01/2021 12:15:27] :  Requete Liste Operations : 2020-12-20#2021-02-10#_ effectué avec succès !! 
+[08/01/2021 12:15:55] : Envoi d'une requete de type LOGIN : Isen#1610104555711#0.8457147146910718#20
+[08/01/2021 12:15:56] :  Reponse reçue : Isen
+[08/01/2021 12:16:02] : Ouverture fenêtre FenPaiement (REC_PAY)
+[08/01/2021 12:16:37] : Envoi d'une requete de type REC_PAY : Isen#3#54.60
+[08/01/2021 12:16:38] :  Requete REC_PAY : Les montants ne correspondent pas !! 
+[08/01/2021 12:16:48] : Envoi d'une requete de type REC_PAY : Isen#3#21.55
+[08/01/2021 12:16:48] :  Requete REC_PAY : Isen#3#21.55 effectué avec succès !! 
+[08/01/2021 12:17:07] : Ouverture fenetre d'a propos 
+[08/01/2021 12:22:10] : Envoi d'une requete de type LOGIN : Isen#1610104930355#0.13780056917542394#20
+[08/01/2021 12:22:10] :  Reponse reçue : Isen
+[08/01/2021 12:22:10] : Envoi d'une requete de type HANDSHAKE : Isen

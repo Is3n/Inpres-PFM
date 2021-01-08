@@ -1,0 +1,12 @@
+[02/01/2021 01:03:00] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609545780342#0.5445207292038386#20
+[02/01/2021 01:15:20] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609546520207#0.5988181300954278#20
+[02/01/2021 01:17:34] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609546654439#0.4156789004527993#20
+[02/01/2021 01:19:09] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609546749132#0.16170723507386486#20
+[02/01/2021 01:20:31] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609546831377#0.8096925809000329#20
+[02/01/2021 01:20:31] :  Reponse compta reçue : Isen
+[02/01/2021 01:21:00] : Envoi d'une requete de type LOGIN_TRAF : Alex#1609546860112#0.6623831468722741#20
+[02/01/2021 01:21:00] :  Reponse compta reçue : Alex
+[02/01/2021 01:22:41] : Envoi d'une requete de type LOGIN_TRAF : Test#1609546961727#0.5076448557404901#20
+[02/01/2021 01:22:41] :  Reponse compta reçue : Test
+[02/01/2021 13:32:29] : Envoi d'une requete de type LOGIN_TRAF : Isen#1609590749198#0.3082203057836369#20
+[02/01/2021 13:32:29] :  Reponse compta reçue : Isen

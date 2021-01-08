@@ -1,0 +1,18 @@
+SMAP
+panier_jsp.java
+JSP
+*S JSP
+*F
++ 0 panier.jsp
+panier.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+3,28:55
+30,6:83
+35,26:89
+61:115,3
+62,66:118
+3#1,46:184
+127#0,12:230
+*E

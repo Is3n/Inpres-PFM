@@ -1,0 +1,144 @@
+[05/01/2021 21:56:57] : Ouverture fenetre d'a propos 
+[05/01/2021 21:57:08] : Ouverture fenêtre des logs 
+[05/01/2021 21:57:10] : Ouverture fenetre help 
+[05/01/2021 21:57:13] : Ouverture fenetre help 
+[06/01/2021 01:37:43] : Envoi d'une requete de type LOGIN_GROUP : Albert#1609893463535#0.6976628774178022#20
+[06/01/2021 01:38:42] : Envoi d'une requete de type LOGIN_GROUP : albert#1609893522826#0.7011052653664357#20
+[06/01/2021 01:38:43] :  Reponse reçue : albert
+[06/01/2021 01:38:54] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609893534987#0.9075000613722588#20
+[06/01/2021 01:38:55] :  Reponse reçue : Isen
+[06/01/2021 01:38:59] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609893539682#0.7046393317970578#20
+[06/01/2021 01:38:59] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:39:31] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609893571956#0.10242264435546133#20
+[06/01/2021 01:39:31] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 01:44:55] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609893895154#0.24832233959910477#20
+[06/01/2021 01:44:55] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:46:55] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894015405#0.005560464603956317#20
+[06/01/2021 01:46:55] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:48:53] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894133789#0.858139801279689#20
+[06/01/2021 01:48:54] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:54:38] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894478659#0.30703168124493807#20
+[06/01/2021 01:54:39] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:55:33] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894533622#0.1123026054455587#20
+[06/01/2021 01:55:34] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:57:41] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894661951#0.14299736762577198#20
+[06/01/2021 01:57:42] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:59:34] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609894774202#0.6142837082074583#20
+[06/01/2021 01:59:34] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 01:59:48] : Déconnection de l'utilisateur
+[06/01/2021 02:03:52] : Envoi d'une requete de type LOGIN_GROUP : iSEN#1609895032705#0.666713745099839#20
+[06/01/2021 02:03:53] :  Reponse reçue : iSEN#234.5.5.9#52007
+[06/01/2021 02:05:03] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609895103609#0.24284406097848876#20
+[06/01/2021 02:05:04] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 02:06:26] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609895186653#0.4090494988617105#20
+[06/01/2021 02:06:27] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 02:06:39] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609895199967#0.26504245499316403#20
+[06/01/2021 02:06:39] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 12:35:19] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609932919916#0.1544106145451304#20
+[06/01/2021 12:35:20] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:36:30] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609932990383#0.08236561775496565#20
+[06/01/2021 12:36:30] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:43:43] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933422979#0.14477841540795322#20
+[06/01/2021 12:43:43] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:45:17] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933517031#0.17960008058656685#20
+[06/01/2021 12:45:17] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:48:18] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933698283#0.073125077459536#20
+[06/01/2021 12:48:18] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:49:03] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933743336#0.03507496231197338#20
+[06/01/2021 12:49:03] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:50:07] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933807500#0.9618388449175633#20
+[06/01/2021 12:50:07] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:51:16] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933876910#0.5315739599979982#20
+[06/01/2021 12:51:17] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:51:48] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609933908705#0.4340329474757004#20
+[06/01/2021 12:51:49] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:55:24] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609934124411#0.5981577371951591#20
+[06/01/2021 12:55:24] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 12:57:28] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609934248351#0.5150729643406016#20
+[06/01/2021 12:57:28] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:09:12] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609934952691#0.018486152049924653#20
+[06/01/2021 13:09:13] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 13:10:34] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609935034591#0.23004632664911373#20
+[06/01/2021 13:10:35] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:32:53] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609936373859#0.1597037450810489#20
+[06/01/2021 13:32:54] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:37:10] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609936630020#0.26926270027494137#20
+[06/01/2021 13:37:10] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:37:49] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609936669883#0.9064361348038444#20
+[06/01/2021 13:37:50] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:38:34] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609936714896#0.563918195950318#20
+[06/01/2021 13:38:35] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:40:36] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609936836858#0.9374293498131205#20
+[06/01/2021 13:40:37] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:41:09] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609936869134#0.3623889432569096#20
+[06/01/2021 13:41:09] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 13:41:19] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609936879354#0.49234303442428895#20
+[06/01/2021 13:41:19] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 13:45:50] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609937150462#0.4298506947275379#20
+[06/01/2021 13:45:50] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:46:22] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609937182326#0.7419951876887251#20
+[06/01/2021 13:46:22] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 13:46:39] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609937199273#0.9101906680687066#20
+[06/01/2021 13:46:39] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 13:56:49] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609937809906#0.5699859271280634#20
+[06/01/2021 13:56:50] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 13:57:01] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609937821596#0.9455306255991405#20
+[06/01/2021 13:57:01] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 13:57:11] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609937831494#0.2708757834541998#20
+[06/01/2021 13:57:11] :  Reponse reçue : Regis
+[06/01/2021 13:57:15] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609937835128#0.16461059157085156#20
+[06/01/2021 13:57:15] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 14:01:22] : Ouverture fenêtre des logs 
+[06/01/2021 14:01:30] : Fermeture fenetre de logs
+[06/01/2021 14:20:26] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609939226270#0.9926164906534859#20
+[06/01/2021 14:20:26] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:20:36] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609939236824#0.47181870211081856#20
+[06/01/2021 14:20:36] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 14:20:48] : Envoi d'une requete de type LOGIN_GROUP : Robert#1609939248075#0.8240646271385931#20
+[06/01/2021 14:20:48] :  Reponse reçue : Robert
+[06/01/2021 14:20:59] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609939259045#0.37160186226553504#20
+[06/01/2021 14:20:59] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 14:24:12] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609939452562#0.5293570852624021#20
+[06/01/2021 14:24:12] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:24:23] : Envoi d'une requete de type LOGIN_GROUP : Calmant#1609939463059#0.9193981962534086#20
+[06/01/2021 14:24:23] :  Reponse reçue : Calmant#234.5.5.9#52007
+[06/01/2021 14:31:40] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609939900321#0.5480801055368114#20
+[06/01/2021 14:31:40] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:31:55] : Envoi d'une requete de type LOGIN_GROUP : Loic#1609939915748#0.07931960555213102#20
+[06/01/2021 14:31:55] :  Reponse reçue : Loic#234.5.5.9#52007
+[06/01/2021 14:34:12] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609940051981#0.5757607134736153#20
+[06/01/2021 14:34:12] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:35:47] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609940146999#0.31664973176984756#20
+[06/01/2021 14:35:47] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:36:58] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609940218109#0.2613000430599629#20
+[06/01/2021 14:36:58] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:37:07] : Envoi d'une requete de type LOGIN_GROUP : Regis#1609940227595#0.7353976742077136#20
+[06/01/2021 14:37:07] :  Reponse reçue : Regis#234.5.5.9#52007
+[06/01/2021 14:47:27] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609940847174#0.06467122915808055#20
+[06/01/2021 14:47:27] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:56:08] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609941368815#0.29705891147369656#20
+[06/01/2021 14:56:09] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:57:19] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609941439800#0.4919953943751564#20
+[06/01/2021 14:57:20] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 14:57:53] : Envoi d'une requete de type LOGIN_GROUP : regis#1609941473364#0.73048814435039#20
+[06/01/2021 14:57:53] :  Reponse reçue : regis#234.5.5.9#52007
+[06/01/2021 14:59:52] : Déconnection de l'utilisateur
+[06/01/2021 14:59:56] : Annulation de login 
+[06/01/2021 15:15:24] : Envoi d'une requete de type LOGIN_GROUP : Isen#1609942524641#0.38514970643631985#20
+[06/01/2021 15:15:25] :  Reponse reçue : Isen#234.5.5.9#52007
+[06/01/2021 15:15:43] : Envoi d'une requete de type LOGIN_GROUP : Alex#1609942543667#0.274592279589307#20
+[06/01/2021 15:15:43] :  Reponse reçue : Alex#234.5.5.9#52007
+[06/01/2021 15:16:39] : Déconnection de l'utilisateur
+[06/01/2021 15:16:41] : Annulation de login 
+[06/01/2021 15:16:49] : Déconnection de l'utilisateur
+[06/01/2021 15:16:50] : Annulation de login 
+[07/01/2021 19:28:17] : Envoi d'une requete de type LOGIN_GROUP : Isen#1610044097719#0.8069868105359705#20
+[07/01/2021 19:28:18] :  Reponse reçue : Isen#234.5.5.9#52007
+[07/01/2021 19:28:37] : Déconnection de l'utilisateur
+[08/01/2021 12:23:54] : Envoi d'une requete de type LOGIN_GROUP : Isen#1610105034438#0.41198181229489494#20
+[08/01/2021 12:23:54] :  Reponse reçue : Isen#234.5.5.9#52007
+[08/01/2021 12:24:09] : Envoi d'une requete de type LOGIN_GROUP : Alex#1610105048980#0.5487252146196794#20
+[08/01/2021 12:24:09] :  Reponse reçue : Alex#234.5.5.9#52007
+[08/01/2021 12:24:33] : Envoi d'une requete de type LOGIN_GROUP : Calmant#1610105073886#0.04208980598470913#20
+[08/01/2021 12:24:33] :  Reponse reçue : Calmant#234.5.5.9#52007
+[08/01/2021 12:26:16] : Déconnection de l'utilisateur
